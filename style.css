@@ -8,3 +8,9 @@ h1 {
     text-align: center;
     text-transform: uppercase;
 }
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
